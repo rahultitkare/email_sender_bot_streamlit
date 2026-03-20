@@ -1,0 +1,4 @@
+streamlit
+pandas
+email-validator
+python-dotenv
